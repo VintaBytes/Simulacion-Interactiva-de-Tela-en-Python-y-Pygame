@@ -18,10 +18,6 @@ La interacción del usuario se organiza en dos ejes. Por un lado, se puede selec
 
 En conjunto, el resultado es una pequeña demostración de física visual en tiempo real, útil tanto como experimento didáctico como base para proyectos más complejos relacionados con telas, redes, superficies deformables o efectos interactivos en 2D.
 
-Si querés, también te preparo una versión más breve, en estilo típico de `README`, con secciones como “Características”, “Controles” y “Cómo funciona”.
-
-
-
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Consulte el archivo `LICENSE` para más información.
